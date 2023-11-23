@@ -261,10 +261,9 @@ _______
 **Physical system wire connection and testing**
 
 ![Screenshot 2023-10-31 at 19.43.12.png](Portfolio-22%2023%20Creative%20Making%20MSc%20Advanced%20Proje%2054237ebd1acc43fd93670a6b08b19139/Screenshot_2023-10-31_at_19.43.12.png)
-
-[IMG_2473.MOV](Portfolio-22%2023%20Creative%20Making%20MSc%20Advanced%20Proje%2054237ebd1acc43fd93670a6b08b19139/IMG_2473.mov)
-
-[IMG_2475.MOV](Portfolio-22%2023%20Creative%20Making%20MSc%20Advanced%20Proje%2054237ebd1acc43fd93670a6b08b19139/IMG_2475.mov)
+![IMG_3413.jpg](https://github.com/ZoeXiongyyy/Creative-Making-MSc-Advanced-Project/blob/main/Portfolio/Portfolio-22%2023%20Creative%20Making%20MSc%20Advanced%20Proje%2054237ebd1acc43fd93670a6b08b19139/IMG_3413.jpg)
+![IMG_3414.jpg](https://github.com/ZoeXiongyyy/Creative-Making-MSc-Advanced-Project/blob/main/Portfolio/Portfolio-22%2023%20Creative%20Making%20MSc%20Advanced%20Proje%2054237ebd1acc43fd93670a6b08b19139/IMG_3414.jpg)
+![IMG_3416.jpg](https://github.com/ZoeXiongyyy/Creative-Making-MSc-Advanced-Project/blob/main/Portfolio/Portfolio-22%2023%20Creative%20Making%20MSc%20Advanced%20Proje%2054237ebd1acc43fd93670a6b08b19139/IMG_3416.jpg)
 
 _______
 
