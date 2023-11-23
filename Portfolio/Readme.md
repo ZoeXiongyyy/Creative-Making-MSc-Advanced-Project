@@ -2,6 +2,8 @@
 
 Project creator: Yuzhu Xiong 21003975
 
+Github Link: <https://github.com/ZoeXiongyyy/Creative-Making-MSc-Advanced-Project>
+
 Final Video link:<https://youtu.be/qb8uxFMcnLQ>
 ______
 ## Part1 - Ideation and Research
