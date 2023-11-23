@@ -1,7 +1,7 @@
 # Portfolio-22/23 Creative Making: MSc Advanced Project
 
 Project creator: Yuzhu Xiong 21003975
-
+______
 ## Part1 - Ideation and Research
 
 ### Basic ideation
@@ -12,22 +12,23 @@ I want to do something related to Digital pollution (pollution behind our digita
 
 Mainly have four ideations：
 
-**Digital activities management tools**
+**A.Digital activities management tools**
 
 For reducing the digital pollution like helping users to manage their daily digital activities, but it's too common, less creativity.
 
-**Carbon filter**
+**B.Carbon filter**
 
 A tool can be used as a filter, filtering data and squeeze the website to a basic functions, part like the definition of useful in “low tech”.
 
-**Carbon footprint printer**
+**C.Carbon footprint printer**
 
 installations that can monitor the digital activity among one local server and visualise the carbon footprint-website can changed with different data behaviours. the interface…component…can be affected
 
-**VR Game**
+**D.VR Game**
 
 Players would have data transport mission to save a plant or a creature，they embark on an adventure where they navigate a virtual world, engage in daily digital activities, and strive to minimize their virtual carbon footprint. 
 
+_______
 ### Further Research
 
 During Summer holiday, I focus on the process of making a specific outcome from literature researches.
@@ -70,6 +71,8 @@ Here are some reasons:
 **The outcome of continuously emit carbon dioxide**
 
 After these process, I did a researched on” the outcome of continuously emit carbon dioxide”, understood that if we don't control our activities, the carbon pollution will ultimately lead to a terrible future.
+
+_______
 
 ## Part2 -Concept development
 
@@ -119,7 +122,10 @@ So I came up with 3 ideas with specific concept:
     [https://www.pinterest.com/pin/70437487760810/](https://www.pinterest.com/pin/70437487760810/)
     
     !["Digitopolis" (2000) at the Science Museum, London_.jpg](Portfolio-22%2023%20Creative%20Making%20MSc%20Advanced%20Proje%2054237ebd1acc43fd93670a6b08b19139/Digitopolis_(2000)_at_the_Science_Museum_London_.jpg)
+
     
+_______
+
 
 ## Part3 - Interactive Design & Technical Experiment
 
@@ -132,6 +138,8 @@ So I came up with 3 ideas with specific concept:
 | ultrasonic | Arduino IDE | open CV |
 | camera |  |  |
 | Arduino mega 2560 |  |  |
+
+_______
 
 ### Installation design
 
@@ -155,9 +163,13 @@ I**nstallation sketch2**
 
 3.A balance scale in the center dynamically tilts based on the participants' interactions with the left and right canvases, symbolizing the balance between human presence and environmental impact.
 
+_______
+
 ### Interactive flow
 
 ![截屏2023-11-23 22.39.14.png](Portfolio-22%2023%20Creative%20Making%20MSc%20Advanced%20Proje%2054237ebd1acc43fd93670a6b08b19139/%25E6%2588%25AA%25E5%25B1%258F2023-11-23_22.39.14.png)
+
+_______
 
 ### Visualisation testing
 
@@ -170,6 +182,7 @@ I initially attempted to create a particle system using Processing and incorpora
 ![截屏2023-11-23 22.40.58.png](Portfolio-22%2023%20Creative%20Making%20MSc%20Advanced%20Proje%2054237ebd1acc43fd93670a6b08b19139/%25E6%2588%25AA%25E5%25B1%258F2023-11-23_22.40.58.png)
 
 ![截屏2023-11-23 22.41.27.png](Portfolio-22%2023%20Creative%20Making%20MSc%20Advanced%20Proje%2054237ebd1acc43fd93670a6b08b19139/%25E6%2588%25AA%25E5%25B1%258F2023-11-23_22.41.27.png)
+
 
 **Touchdesigner - Right Canvas testing**
 
@@ -225,6 +238,8 @@ Color Testing
 
 ![截屏2023-11-23 23.00.30.png](Portfolio-22%2023%20Creative%20Making%20MSc%20Advanced%20Proje%2054237ebd1acc43fd93670a6b08b19139/%25E6%2588%25AA%25E5%25B1%258F2023-11-23_23.00.30.png)
 
+_______
+
 ### Physical hardware testing
 
 **Ultrasonic testing**
@@ -251,6 +266,8 @@ Color Testing
 
 [IMG_2475.MOV](Portfolio-22%2023%20Creative%20Making%20MSc%20Advanced%20Proje%2054237ebd1acc43fd93670a6b08b19139/IMG_2475.mov)
 
+_______
+
 ### Connect Arduino with Touch designer
 
 **Combining all canvas in one screen**
@@ -263,7 +280,10 @@ Color Testing
 
 ![Screenshot 2023-11-03 at 02.50.43.png](Portfolio-22%2023%20Creative%20Making%20MSc%20Advanced%20Proje%2054237ebd1acc43fd93670a6b08b19139/Screenshot_2023-11-03_at_02.50.43.png)
 
-## Part3 Set up the installation
+_______
+
+
+## Part4 Set up the installation
 
 ![IMG_3407.jpg](Portfolio-22%2023%20Creative%20Making%20MSc%20Advanced%20Proje%2054237ebd1acc43fd93670a6b08b19139/IMG_3407.jpg)
 
@@ -273,7 +293,10 @@ Color Testing
 
 ![IMG_3409.jpg](Portfolio-22%2023%20Creative%20Making%20MSc%20Advanced%20Proje%2054237ebd1acc43fd93670a6b08b19139/IMG_3409.jpg)
 
-## Part3 Final testing
+_______
+
+
+## Part5 Final testing
 
 ![IMG_3388.JPG](Portfolio-22%2023%20Creative%20Making%20MSc%20Advanced%20Proje%2054237ebd1acc43fd93670a6b08b19139/IMG_3388.jpg)
 
