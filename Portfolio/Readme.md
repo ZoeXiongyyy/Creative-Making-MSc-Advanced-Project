@@ -14,19 +14,19 @@ Mainly have four ideations：
 
 **Digital activities management tools**
 
-For reducing the digital pollution like helping users to manage their daily digital activities, but it's too common, less creativity.
+    For reducing the digital pollution like helping users to manage their daily digital activities, but it's too common, less creativity.
 
 **Carbon filter**
 
-A tool can be used as a filter, filtering data and squeeze the website to a basic functions, part like the definition of useful in “low tech”.
+    A tool can be used as a filter, filtering data and squeeze the website to a basic functions, part like the definition of useful in “low tech”.
 
 **Carbon footprint printer**
 
-installations that can monitor the digital activity among one local server and visualise the carbon footprint-website can changed with different data behaviours. the interface…component…can be affected
+    installations that can monitor the digital activity among one local server and visualise the carbon footprint-website can changed with different data behaviours. the interface…component…can be affected
 
 **VR Game**
 
-Players would have data transport mission to save a plant or a creature，they embark on an adventure where they navigate a virtual world, engage in daily digital activities, and strive to minimize their virtual carbon footprint. 
+    Players would have data transport mission to save a plant or a creature，they embark on an adventure where they navigate a virtual world, engage in daily digital activities, and strive to minimize their virtual carbon footprint. 
 
 ### Further Research
 
