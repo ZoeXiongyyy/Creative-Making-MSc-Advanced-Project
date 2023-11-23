@@ -26,7 +26,8 @@ installations that can monitor the digital activity among one local server and v
 
 **D.VR Game**
 
-    Players would have data transport mission to save a plant or a creature，they embark on an adventure where they navigate a virtual world, engage in daily digital activities, and strive to minimize their virtual carbon footprint. 
+Players would have data transport mission to save a plant or a creature，they embark on an adventure where they navigate a virtual world, engage in daily digital activities, and strive to minimize their virtual carbon footprint. 
+
 
 ### Further Research
 
@@ -70,6 +71,7 @@ Here are some reasons:
 **The outcome of continuously emit carbon dioxide**
 
 After these process, I did a researched on” the outcome of continuously emit carbon dioxide”, understood that if we don't control our activities, the carbon pollution will ultimately lead to a terrible future.
+
 
 ## Part2 -Concept development
 
@@ -120,6 +122,7 @@ So I came up with 3 ideas with specific concept:
     
     !["Digitopolis" (2000) at the Science Museum, London_.jpg](Portfolio-22%2023%20Creative%20Making%20MSc%20Advanced%20Proje%2054237ebd1acc43fd93670a6b08b19139/Digitopolis_(2000)_at_the_Science_Museum_London_.jpg)
     
+
 
 ## Part3 - Interactive Design & Technical Experiment
 
@@ -263,7 +266,8 @@ Color Testing
 
 ![Screenshot 2023-11-03 at 02.50.43.png](Portfolio-22%2023%20Creative%20Making%20MSc%20Advanced%20Proje%2054237ebd1acc43fd93670a6b08b19139/Screenshot_2023-11-03_at_02.50.43.png)
 
-## Part3 Set up the installation
+
+## Part4 Set up the installation
 
 ![IMG_3407.jpg](Portfolio-22%2023%20Creative%20Making%20MSc%20Advanced%20Proje%2054237ebd1acc43fd93670a6b08b19139/IMG_3407.jpg)
 
@@ -273,7 +277,8 @@ Color Testing
 
 ![IMG_3409.jpg](Portfolio-22%2023%20Creative%20Making%20MSc%20Advanced%20Proje%2054237ebd1acc43fd93670a6b08b19139/IMG_3409.jpg)
 
-## Part3 Final testing
+
+## Part5 Final testing
 
 ![IMG_3388.JPG](Portfolio-22%2023%20Creative%20Making%20MSc%20Advanced%20Proje%2054237ebd1acc43fd93670a6b08b19139/IMG_3388.jpg)
 
